@@ -20,11 +20,11 @@ Presentation for the [Dot Net North](https://www.meetup.com/DotNetNorth) 'Micros
 **Links from presentation**
 
 **Dev Home**  
-🛍️ [Dev Home - Microsoft Store](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/)  
+🛍️ [Dev Home - Microsoft Store](https://aka.ms/devhome)  
 🏠 [Dev Home - Microsoft Learn](https://learn.microsoft.com/en-us/windows/dev-home/)  
 💾 [Dev Drive - Microsoft Learn](https://learn.microsoft.com/en-us/windows/dev-drive/)  
 
-**Windows Subsystem for Android™️**
+**Windows Subsystem for Android™️**  
 🤖 [Windows Subsystem for Android - Microsoft Learn](https://learn.microsoft.com/en-us/windows/android/wsa/)  
 🛍️ [Amazon Appstore - Microsoft Store](https://www.microsoft.com/store/productId/9NJHK44TTKSX)  
 📄 [Amazon Appstore on Windows 11 - Amazon Documentation](https://developer.amazon.com/apps-and-games/appstore-on-windows-11)  
@@ -34,7 +34,7 @@ Presentation for the [Dot Net North](https://www.meetup.com/DotNetNorth) 'Micros
 launch WSA from command line  
 `WsaClient /launch wsa://system`  
 
-connect to WSA from command line (check IP/Port match those in your WSA Setting App)
+connect to WSA from command line (check IP/Port match those in your WSA Setting App)  
 `adb connect 127.0.0.1:58526`  
 
 ---
